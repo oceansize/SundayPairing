@@ -2,89 +2,88 @@
 
 With my pal Alex!
 
-================================
-                         METHODS
-================================
+##METHODS
 
-String
+###String
 
-<<
-capitalize
-center
-chars
-delete
-downcase
-end_with?
-start_with?
-gsub
-hash
-empty?
-length
-include?
-reverse
-prepend
-replace
-size
-slice
-split
-to_i
-to_sym
-Array
+* \<\<
+* capitalize
+* center
+* chars
+* delete
+* downcase
+* end_with?
+* start_with?
+* gsub
+* hash
+* empty?
+* length
+* include?
+* reverse
+* prepend
+* replace
+* size
+* slice
+* split
+* to_i
+* to_sym
 
-<<
-count
-delete
-delete_at
-delete_if
-each
-each_index
-empty?
-first
-flatten
-find_index
-include?
-join
-keep_if
-last
-map
-pop
-reject
-select
-reverse
-sample
-shuffle
-size
-slice
-sort
-transpose
-uniq
-all?
-any?
-each_slice
-each_with_index
-find
-inject
-max
-min
-reduce - aka inject
-to_h
-Hash
+###Array
 
-it’s very important to know how to access the values
+* \<\<
+* count
+* delete
+* delete_at
+* delete_if
+* each
+* each_index
+* empty?
+* first
+* flatten
+* find_index
+* include?
+* join
+* keep_if
+* last
+* map
+* pop
+* reject
+* select
+* reverse
+* sample
+* shuffle
+* size
+* slice
+* sort
+* transpose
+* uniq
+* all?
+* any?
+* each_slice
+* each_with_index
+* find
+* inject
+* max
+* min
+* reduce - aka inject
+* to_h
 
-delete
-each
-each_key
-each_value
-each_pair
-flatten
-has_key?
-has_value?
-include?
-keys
-values
-reject
-select
-to_a
-values_at
+###Hash
+
+* delete
+* each
+* each_key
+* each_value
+* each_pair
+* flatten
+* has_key?
+* has_value?
+* include?
+* keys
+* values
+* reject
+* select
+* to_a
+* values_at
+
 for Arrays and Hashes you need to know most the methods in Enumerable module
