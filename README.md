@@ -1,6 +1,6 @@
 #Sunday Pairing
 
-With my pal Alex!
+With my pal [Alex!](https://github.com/BobRazoswki)
 
 ##METHODS
 
