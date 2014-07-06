@@ -71,6 +71,7 @@ With my pal [Alex!](https://github.com/BobRazoswki)
 ###Hash
 
 * delete
+* delete_if
 * each
 * each_key
 * each_value
